@@ -1,4 +1,4 @@
-# BankLandingPage
+# Bank Landing Page
 
 Responsive landing page with HTML/CSS.
 
